@@ -35,6 +35,3 @@ Enough said. Functionality included:
 
 # Issues
 ## I have not faced any issues with the current system, although if you run into any, they can be reported in the repository's Issues page, or you can contact me on Discord (@thetoolmanscoffee) or via email, thetoolmanscoffee@nobodyteam.com
-
-# Further Updates
-## Further updates (if there will be any) can be found at https://github.com/NOBODY-Team/UnityEditorAutoSave
