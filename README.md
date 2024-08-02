@@ -34,4 +34,4 @@ Enough said. Functionality included:
 ![image](https://github.com/TheToolmansCoffee/UnityEditorAutoSave/assets/93699568/6b609159-fb2e-47cf-a3e8-59becc76d91b)
 
 # Issues
-## I have not faced any issues with the current system, although if you run into any, they can be reported in the repository's Issues page, or you can contact me on Discord (@thetoolmanscoffee) or via email, thetoolmanscoffee@nobodyteam.com
+## I have not faced any issues with the current system, although if you run into any, they can be reported in the repository's Issues page, or you can contact me on Discord (@coffeedrinkingdude) or via email, 7411@nobodyteam.com
